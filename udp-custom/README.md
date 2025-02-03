@@ -3,10 +3,10 @@
 - Upload : 3 Mbps
 - Download : 3 Mbps
 ```
-apt update && apt install wget -y && wget -qO- -O udp.sh "https://raw.githubusercontent.com/givps/AutoScriptXray/master/udp-custom/ins-udp.sh" && chmod +x udp.sh && ./udp.sh
+apt update && apt install wget -y && wget -qO- -O udp.sh "https://raw.githubusercontent.com/aspects19/vpn-servers/main/udp-custom/ins-udp.sh" && chmod +x udp.sh && ./udp.sh
 ```
 - NS Pointing Auto by API cloudflare DNS ON Script
-<!--![Service Status](https://raw.githubusercontent.com/givps/AutoScriptXray/master/udp-custom/slowdns/nspointing.png)-->
+<!--![Service Status](https://raw.githubusercontent.com/aspects19/vpn-servers/main/udp-custom/slowdns/nspointing.png)-->
 
 # Telegram
 [![Telegram-grup](https://img.shields.io/badge/Telegram-Grup-blue)](https://t.me/givpn_grup/)

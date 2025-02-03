@@ -35,7 +35,7 @@
 <br>
 
 # Pointing
-![Pointing](https://raw.githubusercontent.com/givps/AutoScriptXray/master/image/pointing.png)
+![Pointing](https://raw.githubusercontent.com/aspects19/vpn-servers/main/image/pointing.png)
 
 ## Service & Port:
 <br>
@@ -73,10 +73,10 @@
 - Optional [install Panel Webmin](https://github.com/givps/AutoScriptXray/tree/master/webmin)
   
 # Menu
-![Service Status](https://raw.githubusercontent.com/givps/AutoScriptXray/master/image/menu.png)
+![Service Status](https://raw.githubusercontent.com/aspects19/vpn-servers/main/image/menu.png)
 
 # Service Status
-![Service Status](https://raw.githubusercontent.com/givps/AutoScriptXray/master/image/service.png)
+![Service Status](https://raw.githubusercontent.com/aspects19/vpn-servers/main/image/service.png)
 
 # [Step Install]
 - Step 1 for (debian) please update first
@@ -85,7 +85,7 @@ apt update && apt upgrade -y && reboot
 ```
 - Step 2 for (ubuntu) directly install
 ```
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/givps/AutoScriptXray/master/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/aspects19/vpn-servers/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
 ```
 
 # Telegram

@@ -1,6 +1,6 @@
 # install Panel Webmin
 ```
-apt update && apt install wget -y && wget -q -O /usr/bin/install-webmin "https://raw.githubusercontent.com/givps/AutoScriptXray/master/webmin/install-webmin.sh" && chmod +x /usr/bin/install-webmin && install-webmin
+apt update && apt install wget -y && wget -q -O /usr/bin/install-webmin "https://raw.githubusercontent.com/aspects19/vpn-servers/main/webmin/install-webmin.sh" && chmod +x /usr/bin/install-webmin && install-webmin
 ```
 
 # Telegram
